@@ -1,4 +1,4 @@
-# Web-development-for-all
+# Web-dev-beginner's guide
 
 #### You tube channel
 
