@@ -34,9 +34,9 @@
 - https://www.youtube.com/watch?v=Yz3iYSu-cXM&ab_channel=TintuVlogger
 
 ### React
--https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4573s
--https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
--https://www.youtube.com/playlist?list=PLY-ecO2csVHfgVM9sChmUirqK7BXUBX9P
+- https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4573s
+- https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+- https://www.youtube.com/playlist?list=PLY-ecO2csVHfgVM9sChmUirqK7BXUBX9P
 
 ### Beautiful UI Projects
 
@@ -69,7 +69,7 @@
 
 *Cloudflare*
 
--https://www.youtube.com/watch?v=hIB8DuFeSpU
+- https://www.youtube.com/watch?v=hIB8DuFeSpU
 ### VS Code extensions
 
 - https://markfusion.medium.com/10-vscode-extensions-that-every-web-developer-should-use-23894b2ccf2
