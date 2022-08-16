@@ -38,6 +38,15 @@
 - https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
 - https://www.youtube.com/playlist?list=PLY-ecO2csVHfgVM9sChmUirqK7BXUBX9P
 
+### Backend
+- Node.Js: https://youtu.be/Oe421EPjeBE
+- Django: https://youtu.be/OTmQOjsl0eg
+- Django Rest Framework: https://youtu.be/B38aDwUpcFc
+
+### Backend Documentations
+- https://www.django-rest-framework.org/
+- https://www.djangoproject.com/
+
 ### Beautiful UI Projects
 
 - Playlist : https://www.youtube.com/watch?v=v0IgI8vYD_o&list=PL1MK7nFniZZYRV5sign661Pq--3DbF9Bn&ab_channel=EasyTutorials
